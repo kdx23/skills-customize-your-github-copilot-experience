@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "algorithmic-problem-solving",
+      "title": "Algorithmic Problem Solving",
+      "description": "Use lists and dictionaries to design and compare efficient Python solutions.",
+      "path": "assignments/algorithmic-problem-solving",
+      "dueDate": "2026-05-27",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
